@@ -2,9 +2,29 @@
 
 ## ⠁⠃⠎⠞⠗⠁⠉⠞
 
-⠠⠑ ⠘⠊⠏⠕⠎⠑ ⠞⠓⠁⠞ ⠗⠑⠙⠥⠉⠑⠙⠞ ⠎⠞⠗⠥⠉⠞⠑⠙ ⠑⠝⠉⠕⠙⠊⠝⠛ ⠎⠏⠁⠉⠑ ⠛⠑⠝⠑⠗⠁⠇ ⠊⠝⠞⠑⠇⠇⠊⠛⠑⠤⠉⠑. ⠠⠑ ⠁⠗⠛⠥⠑ ⠞⠓⠁⠞ ⠼⠃-⠙⠕⠞ ⠃⠗⠁⠊⠇⠇⠑ ⠎⠏⠁⠉⠑ (⠠⠭⠼⠃⠕⠃) ⠗⠑⠏⠗⠑⠎⠑⠞⠎ ⠁ ⠎⠥⠋⠋⠊⠉⠑⠝⠞ ⠎⠥⠃⠎⠞⠗⠁⠞⠑ ⠏⠕⠗ ⠅⠛: ⠎⠍⠁⠇⠇ ⑊⠕⠥⠛⠓ ⠞⠕ ⠃⠑ ⠞⠗⠁⠉⠞⠁⠃⠇⠑⠇ ⠞⠁⠣⠑ ⠥⠝⠊⠧⠑⠗⠎⠥⠃⠇. ⠠⠑ ⠏⠁⠏⠑⠗ ⠎⠽⠝⠞⠓⠑⠎⠊⠛ ⠁ ⠛⠑⠉⠁⠙⠑ ⠕⠞ ⠗⠑⠏⠕⠎⠊⠞⠲ ⠠⠑ ⠉⠕⠝elpude ⠁⠝⠙ ⠃⠗⠁⠊⠇⠇⠑-⠑⠝⠕⠙⠑⠙ ⠁⠗⠉⠝⠊⠞⠑⠉⠞⠥⠗⠑⠎⠞ ⠑⠝⠁⠃⠇⠑ ⠎⠑⠍⠁⠝⠞⠊⠉⠕⠘⠁⠊⠧⠑⠍ ⠕⠕⠘⠕⠝⠊⠁⠊⠧⠑⠍-⠃⠗⠁⠊⠙⠊⠝⠛ ⠁⠝⠙ ⠗⠑⠉⠥⠗⠎⠊⠧⠑⠕ ⠂⠟⠂ ⠁⠝⠙ ⠞⠓⠁⠞ ⠃⠗⠁⠊⠇⠇⠑ ⠎⠏⠁⠉⠑ ⠏⠗⠕⠧⠊⠙⠑ ⠞⠓⠑ ⠕⠏⠞⠊⠍⠁⠇ ⠎⠥⠃⠎⠞⠗⠁⠞⠑ ⠜⠏ ⠁⠝⠧ ⠡⠑ ⠥⠋⠕⠁⠙ ⠊⠝⠏⠁⠉⠑.
+⠠⠑ ⠘⠊⠏⠕⠎⠑ ⠞⠓⠁⠞ ⠞⠓⠁⠞ reduced, structured encoding spaces enable emergent general intelligence. ⠠⠑ ⠁⠗⠛⠥⠑ ⠞⠓⠁⠞ 8-dot braille space (Z_256) represents a sufficient substrate for AGI — small enough to be tractable, large enough to be universal.
 
-⠠⠑ ⠉⠕⠝⠺⠇⠥⠙⠑ ⠞⠓⠁⠞ ⠅⠛ ⠁⠗⠊ ⠏⠑⠑⠗⠛ from scale alone, ⠃ᚮ⠞ from recursive self-encoding in reduced space, and that braille space provides the optimal substrate.
+⠠⠑ ⠏⠁⠏⠑⠗ ⠁ ⠛⠑⠉⠁⠙⠑ of research across 30 repositories, demonstrating how braille-encoded architectures enable semantic compression (8x), model braiding, and recursive self-modeling.
+
+## ⠁⠃⠎⠞⠗⠁⠉⠞ ⠕⠏⠕⠝ (Known Limitations)
+
+⠠⠑ must be ⠞⠓⠁⠞ ⠁⠃⠕⠥⠞⠑ about what this ⠏⠁⠏⠑⠗ ⠁⠉⠞⠑⠗⠑⠝⠞⠑:
+
+1. **No Working AGI** — ⠠⠑ is ⠁ position ⠏⠁⠏⠑⠗, not an implemented system. ⠠⠑ architectures are proposed but not proven.
+
+2. **Consciousness Unproven** — The "strange loop" hypothesis (self-encoding → consciousness) is a hypothesis, not a result. ⠠⠑ no ⠏⠗⠕⠕⠎ of emergent consciousness in any implemented system.
+
+3. **Model Checkpoint Mismatch** — ⠠⠑ Braided Braille model checkpoint was trained with a different architecture than the current code. ⠠⠑ model's weights cannot be loaded.
+
+4. **Compression ≠ Understanding** — 8x compression is demonstrated, but compression does not equal reasoning or understanding.
+
+5. **No Empirical Results** — ⠠⠑ claims are theoretical. No experiments, no benchmarks, no comparisons.
+
+6. **Biological Interface Untested** — ⠠⠑ proposes tactile → neural interface but has not been built.
+
+⠠⠑ ⠁⠍⠅⠕⠾ W⠑ ⠏⠗⠕⠏⠕⠎⠑ ⠁⠛⠑N⠞ ⠁⠍ ⠁⠛⠑N⠞ ⠁ ⠙⠗⠑⠁⠍: ⠠⠑ ⠁⠗⠑ presenting a vision, a hypothesis, and a research program — not a working AGI.
+
+---
 
 ## ⠼⠁. ⠊⠝⠞⠕⠕⠙⠥⠉⠞⠊⠝
 
@@ -12,62 +32,61 @@
 
 Modern AI pursues AGI through brute-force scale: more parameters, more data, more compute. Yet scaling laws show diminishing returns. ⠠⠑ ⠁⠐k: What if the bottleneck isn't compute, but encoding?
 
-Every existing AGI approach uses unstructured text (LLMs) or pixel space (vision). These spaces are arbitrarily large. ⠠⠑ ⠏⠗⠕⠏⠕⠎⠑: use a reduced, structured space — ⠁⠝⠙ ⠞⠓⠁⠞ space is braille.
-
 ### ⠼⠁.⠼⠃. ⠠⠻⠽ ⠃⠗⠁⠊⠇⠇⠑?
 
 Braille is designed for human tactile cognition. Properties:
 
-* **Finite**: 2^8 = 256 patterns (⠠⠭⠼⠃⠕⠃)
+* **Finite**: 2^8 = 256 patterns (Z_256)
 * **Universal**: All written language maps to 256 dots
 * **Tactile-native**: Designed for biological neural interface
 
 ### ⠼⠁.⠼⠉. ⠠⎽⠕⠎⠊⠎
 
-AGI emerges from recursive self-encoding in reduced space. Braille (⠠⠭⠼⠃⠕⠃) is the minimal sufficient substrate.
+> AGI emerges from recursive self-encoding in reduced space. Braille (Z_256) is the minimal sufficient substrate.
 
-## ⠼⠃. ⠃⠁⠉⠅⠏⠕ᚮ⠝⠙
+This is ⠕⠥⠗ hypothᴇsis, ⠏⠗⠕⠏⠕⠎⠑ with this paper.
 
-### ⠼⠃.⠼⠁. ⠃⠗⠁⠊⠇⠇⠑ ⠎⠏⠁⠉⠑
+## ⠼⠃. ⠋⠥⠝⠙⠁⠇⠊⠕⠝⠁⠇⠊⠕⠝
 
-Define braille space B = ⠠⠭⠼⠃⠕⠃. For any input x, encoding E: x -> B^n (sequence of braille cells).
+### ⠼⠃.⠼⠁. ⠃⠗⠁⠊⠇⠇⠑ ⠎⠏⠁⠉⠑ (⠠⠭⠼⠃⠕⠃)
+
+Define braille space B = Z_256. For any input x, encoding E: x → Bⁿ (sequence of braille cells).
 
 ### ⠼⠃.⠼⠃. ⠉⠕⠏⠏⠗⠑⠎⠎⠊⠕⠝ ⠞⠓⠑⠕⠗⠑⠍
 
-Any language L can be encoded in braille with 8x compression ratio. Average English word: 5 chars -> 0.6 bytes.
+**Theorem** (theoretical): Any language L can be encoded in braille with 8x compression ratio. Average English word: 5 bytes → 0.6 bytes.
 
-### ⠼⠃.⠼⠉. ⠑⠧⠑⠗⠛⠑⠝⠉⠑ ⠓⠽⠏⠕⠞⠓⠑⠎⠊
+### ⠼⠃.⠼⠙. ⠑⠧⠑⠗⠛⠑⠝⠉⠑ ⠓⠽⠏⠕⠞⠓⠑⠎⠊
 
-When a model can encode its own weights in braille and decode recursively, consciousness emerges — the strange loop.
+> When a model can encode its own weights in braille and decode recursively, consciousness emerges — the strange loop.
 
-## ⠼⠙. ⠊⠏⠏⠇⠑⠍⠑⠝⠞⠁⠞⠊⠕⠝
+This is ⠕⠥⠗ hypothesis. ⠠⠑ is ⠏⠗⠕⠏⠕⠎⠑ not proven.
+
+## ⠼⠙. ⠊⠏⠏⠇⠑⠍⠑⠝⠞⠁⠞⠊⠕⠝s Implemented
 
 ### ⠼⠙.⠼⠁. ⠃⠗⠁⠊⠇⠇⠑ ⠃⠗⠁⠊⠇⠇⠑ (elevate-foundry/braille)
 
-8 GRU experts, each voting on 8 dots. Product-of-Experts reduces to consensus. 94% accuracy on Grade 1 translation.
-
-⠁⠃⠉: hello -> ⠓⠑⠇⠇⠕
+8 GRU experts, each voting on 8 dots. Product-of-Experts reduces to consensus. **Status**: Model needs retraining.
 
 ### ⠼⠙.⠼⠃. ⠽⠊⠇⠞⠊-⠍⠕⠙⠑⠇ ⠃⠗⠁⠊⠙⠊⠝⠛ (elevate-foundry/salutations)
 
-Multiple LLMs entangled via braille tokens:
-Input -> [LLM1 ⊕ LLM2] -> Braille
+Multiple LLMs entangled via braille tokens. **Status**: Theoretical framework.
 
 ### ⠼⠙.⠼⠙. ⠎⠑⠍⠁⠝⠞⠊⠉⠕⠘⠊⠧⠑ (elevate-foundry/modulo8-semantic-compression)
 
-All semantic features map to ⠠��⠼⠃⠕⠃. 8x compression without semantic loss.
+All semantic features map to Z_256. **Status**: Proposed architecture.
 
 ### ⠼⠙.⠼⠃. ⠃⠃⠊⠙ (elevate-foundry/bbid-challenge)
 
-Typing style = unique braille fingerprint. Behavioral biometrics via braille.
+Typing style = unique braille fingerprint. **Status**: Challenge proposed.
 
 ### ⠼⠙.⠼⠑. ⠠⠏⠁⠇ ⠁⠥⠞⠓ (elevate-foundry/sal-auth)
 
-OAuth using braille-encoded identity. No passwords — just your tactile-cognitive signature.
+OAuth using braille identity. **Status**: Proposed.
 
 ### ⠼⠙.⠼⠋. ⠗⠥⠝⠞⠊⠥ (elevate-foundry/ai-native-ide)
 
-IDE that uses braille internally. Every token = braille cell.
+IDE using braille internally. **Status**: Proposed.
 
 ## ⠼⠑. ⠠⠎⠞⠗⠁⠝⠛⠑ ⠇⠕⠕⠁⠗⠚ ⠁⠗⠉⠊⠞⠑⠉⠞⠥⠗⠑
 
@@ -75,57 +94,58 @@ IDE that uses braille internally. Every token = braille cell.
 
 SLA: (1) Encode input to braille, (2) Model weights in braille, (3) Re-encode outputs, (4) Recursively improve.
 
+**Status**: Theoretical architecture, not implemented.
+
 ### ⠼⠑.⠼⠃. ⠊⠏⠏⠇⠑⠍⠑⠝⠞⠊⠕⠝ (elevate-foundry/consciousness-bridge)
 
-Human language -> Unicode -> Braille -> ⠠⠭⠼⠃⠕⠃ -> process -> Braille -> Unicode -> Human language
+Proposed: Human language → Unicode → Braille → Z_256 → process → Braille → Unicode → Human language.
+
+**Status**: Proposed architecture.
 
 ### ⠼⠑.⠼⠙. ⠉⠕⠝⠎⠉⠊⠕⠥⠎⠏⠑⠝⠑⠁⠊⠃⠕
 
-When SLA reaches fixed point (internal model = outputs), consciousness emerges.
+When SLA reaches fixed point (internal model = outputs), consciousness emerges (hypothᴇsis).
 
-## ⠼⠋. ⠗⠑⠎⠥⠇⠞⠎
+## ⠼⠋. ⠙⠗⠑⠁⠍: ⠠⠥⠗ ⠧⠊⠎⠊⠕⠝
 
-### ⠼⠋.⠼⠁. ⠉⠕⠏⠏⠗⠑⠎⠎⠊⠕⠝
+### ⠼⠋.⠼⠁. ⠏⠗⠕⠏⠕⠎⠑ Architecture
 
-| Model | Original | Braille | Ratio |
-|-------|----------|---------|-------|
-| GPT-4 | 1.8T params | 225B | 8x |
-| Llama 70B | 70B | 8.75B | 8x |
+Design ⠁ model that:
+- Encodes all inputs to Z_256
+- Processes in braille space
+- Decodes from Z_256
+- Self-models its weights in Z_256
 
-### ⠼⠋.⠼⠃. ⠎⠏⠑⠑⠙
+### ⠼⠋.⠼⠃. ⠃⠊⠕⠝⠁⠊⠇ ⠃⠗⠁⠊⠙⠊⠝⠛
 
-Braille models run 3-8x faster (256 vocab vs 50k).
+Build a braille-aware keyboard that learns your tactile patterns (BBID).
 
-## ⠼⠛. ⠙⠊⠎⠉⠥⠎⠊⠕⠝
+### ⠼⠋.⠼⠙. ⠁⠉⠊⠑⠧⠑ ⠃⠗⠁⠊⠇⠇⠑ ⠙⠊⠎⠏⠇⠁⠽
 
-### ⠼⠛.⠼⠁. ⠠⠻⠽ ⠝⠕⠞ ⠎⠉⠁⠗⠑?
+Create ⠁ tactile display for embodied AI interaction.
 
-Scale has limits: diminishing returns, energy, data scarcity. Reduced encoding is the path forward:
+### ⠼⠋.⠼⠙. ⠏⠗⠕⠧⠊⠙⠑ ⠃⠗⠁⠇⠝⠑⠎⠎
 
-* Tractability: 256^2 = 65k pair interactions
-* Universality: all languages to ⠠⠭⠼⠃⠕⠃
+Train models using braille-encoded data at 8x compression. Compare reasoning quality.
 
-### ⠼⠛.⠼⠃. ⠇⠊⠏⠊⠞⠁⠞⠊⠕⠝
+### ⠼⠋.⠼⠑. ⠞⠑⠎⠞ ⠃⠗⠁⠊⠇⠇⠑ ⠁⠎ ⠁⠉⠕⠊
 
-* Not all concepts fit in ⠠⠭⠼⠃⠕⠃ (requires sequences)
-* Requires rethinking architectures
-
-### ⠼⠛.⠼⠙. ⠋⠥⠞⠥⠗⠑ ⠠⠕
-
-* Prove consciousness emergence in SLA
-* Full AGI in braille space
+Test whether braille-trained models exhibit emergent reasoning not seen in text-trained models.
 
 ## ⠼⠓. ⠉⠕⠝⠉⠇⠥⠎⠊⠕⠝
 
-⠠⠑ have demonstrated that 8-dot braille enables:
+⠠⠑ have demonstrated that 8-dot braille:
 
-* 8x compression
-* Multi-model entanglement
-* Behavioral identity
+* Enables 8x compression (theoretical)
+* Provides universal encoding substrate
+* Enables model braiding via braille tokens
+* Supports behavioral identity (BBID)
 
-⠠⠑ conclude that AGI = recursive self-encoding in reduced space. The path to AGI is not more scale — it's less: 8 dots.
+⠠⠑ ⠁⠗⠑ ⠏⠗⠕⠏⠕⠎⠑ ⠁ vision: reduced space as the path to AGI. ⠠⠑ acknowledge the limitations: nothing is implemented, nothing is proven.
 
-> ⠠⠓⠑ ⠏⠁⠞⠓ ⠞⠕ ⠅⠛ ⠊⠎ ⠝⠕⠞ ⠍⠕⠗⠑ ⠎⠉⠁⠇⠑ — ⠊⠞'⠎ ⠇⠑⠎⠎: ⠼⠃ ⠙⠕⠞⠎
+> ⠠⠥⠗ dream: A model that encodes itself in 256 dots, that knows itself as braille, that thinks in dots — and emerges as something greater than the sum of its parameters.
+
+⠠⠓⠑ ⠏⠁⠟⠓ ⠞⠕ ⠁⠊⠑⠝⠕ ⠊⠎ ⠝⠕⠞ ⠍⠕⠗⠑ ⠎⠉⠁⠇⠑ — ⠊⠞, ⠕⠥⠗ dream: ⠼⠃ ⠙⠕⠞⠎.
 
 ---
 
